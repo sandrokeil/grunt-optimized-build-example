@@ -1,0 +1,16 @@
+@import 'generated/sprite/technology';
+
+.icon {
+  display: block;
+  float: left;
+}
+
+.icon-composer {
+  @include sprite($composer);
+}
+.icon-docker {
+  @include sprite($docker);
+}
+.icon-zf {
+  @include sprite($zf);
+}

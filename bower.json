@@ -1,0 +1,31 @@
+{
+  "name": "grunt-optimized-build-example",
+  "version": "0.1.0",
+  "description": "Grunt autoloading tasks in parallel with optimized assets",
+  "keywords": [
+    "grunt",
+    "example",
+    "parallel",
+    "optimize",
+    "qa",
+    "autoloading"
+  ],
+  "author": "Sandro Keil <github@sandro-keil.de>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sandrokeil/grunt-optimized-build-example"
+  },
+  "bugs": {
+    "url": "https://github.com/sandrokeil/grunt-optimized-build-example/issues"
+  },
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap-sass-official": "3.3.5",
+    "FitVids": "1.1.0",
+    "jquery": "1.11.3"
+  },
+  "resolutions": {
+    "jquery": "1.11.3"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "maximumLineLength": 120,
+  "requireSpacesInsideParentheses": {
+    "all": true,
+    "except": [
+      "{",
+      "}",
+      "(",
+      ")"
+    ]
+  },
+  "validateQuoteMarks": {
+    "mark": "'",
+    "escape": true
+  },
+  "requirePaddingNewLinesBeforeLineComments": {
+    "allExcept": "firstAfterCurly"
+  },
+  "requireOperatorBeforeLineBreak": [
+    "?"
+  ],
+  "disallowOperatorBeforeLineBreak": [
+    ".",
+    "*",
+    "/",
+    "-",
+    "+"
+  ],
+  "preset": "jquery"
+}

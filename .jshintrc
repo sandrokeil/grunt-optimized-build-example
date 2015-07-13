@@ -1,0 +1,23 @@
+{
+  "boss": true,
+  "browser": true,
+  "curly": true,
+  "eqeqeq": true,
+  "eqnull": true,
+  "latedef": true,
+  "loopfunc": true,
+  "maxcomplexity": 15,
+  "maxdepth": 5,
+  "maxparams": 5,
+  "noarg": true,
+  "node": true,
+  "strict": true,
+  "supernew": true,
+  "undef": true,
+  "laxbreak": true,
+  "unused": false,
+  "jquery": true,
+  "predef": [
+    "google"
+  ]
+}
