@@ -12,4 +12,4 @@ With this example I will share my experience how making the build process faster
 parallelize as much as possible. I show you how to build a fully fledged front-end build process with optimized assets 
 and how to ensure the code quality.
 
-[Read the blog post](https://sandro-keil.de/blog/ "Visit blog post") for more details.
+[Read the blog post](https://sandro-keil.de/blog/2015/07/13/autoloading-grunt-tasks-concurrently-with-optimized-assets/ "Visit blog post") for more details.
